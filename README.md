@@ -1,9 +1,10 @@
 # Trabalho de Laboratório de Banco de Dados 2
 
-Jonathan Rufino - 10/0107826
-Laércio - 
+Jonathan Rufino [@JonathanRufino](https://github.com/JonathanRufino)<br/>
+Laércio Silva [@laercios](https://github.com/laercios)<br/>
+João Saliba [@joaosaliba](https://github.com/joaosaliba)
 
-## Detalhamento dos Projetos Propostos
+## Detalhamento do Projeto Proposto
 
 **Observação -** Todo usuário tem que ter pelo menos:
 - Identificador
