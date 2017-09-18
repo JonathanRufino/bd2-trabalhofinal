@@ -1,5 +1,19 @@
 # Acesso à API
 
+**Obs.: localhost = 127.0.0.1**
+
+- Sem autenticação:
+
+````bash
+curl -X GET http://localhost:5984/database_name/
+````
+
+- Com autenticação:
+
+````bash
+curl -X GET http://user:password@localhost:5984/database_name/
+````
+
 ## Obter UUID
 
 ````bash
