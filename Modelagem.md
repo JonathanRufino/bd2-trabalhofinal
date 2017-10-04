@@ -75,6 +75,7 @@
 
 ````json
 {
+    "nome": "",
     "nome_artistico": "unique",
     "numero_seguro_social": "unique",
     "nacionalidade": "",
