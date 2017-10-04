@@ -66,7 +66,8 @@
     "custo": "",
     "diretor": "",
     "atores": [
-
+        { "nome": "", "cache": "", "personagem": "" },
+        { "nome": "", "cache": "", "personagem": "" }
     ]
 }
 ````
@@ -84,17 +85,6 @@
     "tipo_fisico_papel": [
 
     ]
-}
-````
-
-### Filme-tem-Ator
-
-````json
-{
-    "filme": "",
-    "ator": "",
-    "cache": "",
-    "personagem": ""
 }
 ````
 
