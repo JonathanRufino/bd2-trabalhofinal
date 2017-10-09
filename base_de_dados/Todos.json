@@ -1,0 +1,299 @@
+{
+    "identificador": "3",
+    "nome": "Joao Gabriel Saliba",
+    "cpf": "00011122274",
+    "identidade": "222447",
+    "filiação": {
+        "mae": "Eulina Saliba",
+        "pai": "Paulo Saliba"
+    },
+    "sexo": "Masculino",
+    "estado_civil": "Solteiro",
+    "naturalidade": "Brasileiro",
+    "endereço": {
+        "logradouro": "Q",
+        "numero": "3003",
+        "cidade": "Gama",
+        "estado": "DF",
+        "pais": ""
+    },
+    "telefone": "61999999999",
+    "email": "Joao_salibaa@hotmail.com",
+    "escolaridade": "Superior incompleto",
+    "naturalidade": "Brasileiro",
+    "cargo": "ADM"
+}
+{
+    "nome": "Marvel",
+    "dono": "The Walt Disney Company",
+    "data_fundacao": "1 de maio de 1939",
+    "faturamento_ano_anterior": "925.7 milhões de dolares",
+    "filmes": [   "Os Vingadores ","Vingadores : Era de Ultron"]
+}
+{
+    "nome": "Sony Pictures",
+    "dono": "Sony Corporation",
+    "data_fundacao": "21 de dezembro de 1987",
+    "faturamento_ano_anterior": "8 bilhões de dolares",
+    "filmes": [   "Homem-Aranha","Homem-Aranha 2" ]
+}
+{
+    "nome": "20th Century Fox",
+    "dono": "21st Century Fox",
+    "data_fundacao": "28 de dezembro de 1934",
+    "faturamento_ano_anterior": "1,8 bilhões de dolares",
+    "filmes": [ "X-men", "X-men 2" ]
+}
+{
+    "nome": "Universal Studios",
+    "dono": "Comcast",
+    "data_fundacao": "28 de dezembro de 1934",
+    "faturamento_ano_anterior": "4.2 bilhões de dollares",
+    "filmes": [ "Hulk" ]
+}
+{
+    "nome": "Warner Bros.",
+    "dono": "Time Warner Company",
+    "data_fundacao": "4 de abril de 1923",
+    "faturamento_ano_anterior": "12,992 bilhões de dollares",
+    "filmes": [ "Batman vs Superman : A Origem da Justiça" ]
+}
+{
+    "nome": "X-men",
+    "numero_meses_producao": " 6 ",
+    "ano_lancamento": "2 de Maio de 2003",
+    "copyright": "Fox",
+    "custo": " 110 milhões de dollares",
+    "diretor": "Bryan Singer",
+    "atores": [
+        { "nome": "Hugh Jackman", "cache": "25 milhoes de dolares", "personagem": "Logan - Wolverine" },
+        { "nome": "Patrick Stewart", "cache": "12 milhoes de dolares", "personagem": "Professor Charles Xavier" }
+    ]
+}
+{
+    "nome": "X-men 2",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 Agosto de 2000",
+    "copyright": "Fox",
+    "custo": " 75 milhões de dollares",
+    "diretor": "Bryan Singer",
+    "atores": [
+        { "nome": "Hugh Jackman", "cache": "32 milhoes de dolares", "personagem": "Logan - Wolverine" },
+        { "nome": "Patrick Stewart", "cache": "19 milhoes de dolares", "personagem": "Professor Charles Xavier" }
+    ]
+}
+{
+    "nome": "Batman vs Superman : A Origem da Justiça",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "24  de Março de 2016",
+    "copyright": "Warner Bros.",
+    "custo": " 250 milhões de dollares",
+    "diretor": "Larry Fong",
+    "atores": [
+        { "nome": "Ben Affleck", "cache": "33 milhoes de dolares", "personagem":  "Bruce Wayne / Batman" },
+        { "nome": "Henry Cavill", "cache": "51 milhoes de dolares", "personagem": " Clark Kent / Superman" }
+    ]
+}
+{
+    "nome": "Hulk",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "27 de Junho de 2003",
+    "copyright": "Universal Studios",
+    "custo": " 137 milhões de dollares",
+    "diretor": "Ang Lee",
+    "atores": [
+        { "nome": "Eric Bana", "cache": "39 milhoes de dolares", "personagem":   "Dr. Robert Bruce Banner / Hulk" },
+        { "nome": "Jennifer Connelly", "cache": "22 milhoes de dolares", "personagem": "  Dra. Elizabeth Ross" }
+    ]
+}
+{
+    "nome": "Homem-Aranha",
+    "numero_meses_producao": " 8 ",
+    "ano_lancamento": "17 de Maio de 2002",
+    "copyright": "Sony",
+    "custo": " 139 milhões de dollares",
+    "diretor": "Sam Raimi",
+    "atores": [
+        { "nome": "Tobey Maguire", "cache": "29 milhoes de dolares", "personagem":   "Peter Parker / Homem-Aranha"},
+        { "nome": "Kirsten Dunst", "cache": "12 milhoes de dolares", "personagem": "Mary Jane Watson" }
+    ]
+}
+{
+    "nome": "Homem-Aranha 2",
+    "numero_meses_producao": " 9 ",
+    "ano_lancamento": "3 de Julho de 2004",
+    "copyright": "Sony",
+    "custo": " 200 milhões de dollares",
+    "diretor": "Sam Raimi",
+    "atores": [
+        { "nome": "Tobey Maguire", "cache": "37 milhoes de dolares", "personagem":   "Peter Parker / Homem-Aranha"},
+        { "nome": "Kirsten Dunst", "cache": "22 milhoes de dolares", "personagem": "Mary Jane Watson" }
+    ]
+}
+{
+    "nome": "Os Vingadores",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 de Abril de 2012",
+    "copyright": "Marvel",
+    "custo": " 220 milhões de dollares",
+    "diretor": "Joss Whedon",
+    "atores": [
+        { "nome": "Robert Downey, Jr. ", "cache": "40 milhoes de dolares", "personagem":   "Tony Stark / Homem de Ferro"},
+        { "nome": "Chris Evans", "cache": "32 milhoes de dolares", "personagem": "Steve Rogers / Capitão América" }
+    ]
+}
+{
+    "nome": "Os Vingadores : Era de Ultron",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 de Abril de 2012",
+    "copyright": "Marvel",
+    "custo": " 220 milhões de dollares",
+    "diretor": "Joss Whedon",
+    "atores": [
+        { "nome": "Robert Downey, Jr. ", "cache": "43 milhoes de dolares", "personagem":   "Tony Stark / Homem de Ferro"},
+        { "nome": "Chris Evans", "cache": "36 milhoes de dolares", "personagem": "Steve Rogers / Capitão América" }
+    ]
+}
+{
+    "nome": "Joss Whedon",
+    "filmes": [
+	"Os Vingadores : Era de Ultron",
+	"Os Vingadores"
+    ]
+}
+{
+    "nome": "Sam Raimi",
+    "filmes": [
+	"Homem-Aranha",
+	"Homem-Aranha 2"
+    ]
+}
+{
+    "nome": "Ang Lee",
+    "filmes": [
+	"Hulk"
+    ]
+}
+{
+    "nome": "Larry Fong",
+    "filmes": [
+	 "Batman vs Superman : A Origem da Justiça"
+    ]
+}
+{
+    "nome": "Bryan Singer",
+    "filmes": [
+	"X-men",
+	"X-men 2",
+    ]
+}
+{
+    "nome": "Robert John Downey, Jr.",
+    "nome_artistico": "Robert Downey, Jr",
+    "numero_seguro_social": "7894457895",
+    "nacionalidade": "Americano",
+    "idade": " 52",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Tony Stark/Homem de Ferro"
+    ]
+}
+{
+    "nome": "Christopher Robert Evans",
+    "nome_artistico": "Chris Evans",
+    "numero_seguro_social": "9874563219",
+    "nacionalidade": "Americano",
+    "idade": " 36",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Capitão América"
+    ]
+}
+{
+    "nome": "Tobias Vincent Maguire",
+    "nome_artistico": "Tobey Maguire",
+    "numero_seguro_social": "7561894356",
+    "nacionalidade": "Americano",
+    "idade": " 42",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Homem Aranha"
+    ]
+}
+{
+    "nome": "Kirsten Caroline Dunst",
+    "nome_artistico": "Kirten Dunst",
+    "numero_seguro_social": "75894612325",
+    "nacionalidade": "Alemã / Norte Americana",
+    "idade": " 35",
+    "sexo": "Feminino",
+    "tipo_fisico_papel": [
+	"Mary Jane"
+    ]
+}
+{
+    "nome": "Eric Banadinovich",
+    "nome_artistico": "Eric Bana",
+    "numero_seguro_social": "1597846257",
+    "nacionalidade": "Australiano",
+    "idade": " 49",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	" Dra. Elizabeth Ross
+    ]
+}
+{
+    "nome": "Jennifer Lynn Connelly",
+    "nome_artistico": "Jennifer Connelly",
+    "numero_seguro_social": "9512367894",
+    "nacionalidade": "Americana",
+    "idade": " 46",
+    "sexo": "Feminino",
+    "tipo_fisico_papel": [
+	"Dr. Robert Bruce Banner / Hulk"
+    ]
+}
+{
+    "nome": "Benjamin Geza Affleck-Boldt",
+    "nome_artistico": "Ben Affleck",
+    "numero_seguro_social": "7894561236",
+    "nacionalidade": "Americano",
+    "idade": " 45",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Bruce Wayne / Batman"
+    ]
+}
+{
+    "nome": "Henry William Dalgliesh Cavill",
+    "nome_artistico": "Henry Cavill",
+    "numero_seguro_social": "2584569517",
+    "nacionalidade": "Britânico",
+    "idade": " 34",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Clark Kent / Superman"
+    ]
+}
+{
+    "nome": "Hugh Michael Jackman",
+    "nome_artistico": "Hugh Jackman",
+    "numero_seguro_social": "1597536482",
+    "nacionalidade": "Australiano",
+    "idade": " 48",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Logan - Wolverine"
+    ]
+}
+{
+    "nome": "Patrick Hewes Stewart",
+    "nome_artistico": "Patrick Stewart",
+    "numero_seguro_social": "1234567899",
+    "nacionalidade": "Britanico",
+    "idade": " 77",
+    "sexo": "Masculino",
+    "tipo_fisico_papel": [
+	"Professor Charles Xavier"
+    ]
+}

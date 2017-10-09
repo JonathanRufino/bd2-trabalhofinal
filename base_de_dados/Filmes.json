@@ -1,0 +1,96 @@
+{
+    "nome": "X-men",
+    "numero_meses_producao": " 6 ",
+    "ano_lancamento": "2 de Maio de 2003",
+    "copyright": "Fox",
+    "custo": " 110 milhões de dollares",
+    "diretor": "Bryan Singer",
+    "atores": [
+        { "nome": "Hugh Jackman", "cache": "25 milhoes de dolares", "personagem": "Logan - Wolverine" },
+        { "nome": "Patrick Stewart", "cache": "12 milhoes de dolares", "personagem": "Professor Charles Xavier" }
+    ]
+}
+{
+    "nome": "X-men 2",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 Agosto de 2000",
+    "copyright": "Fox",
+    "custo": " 75 milhões de dollares",
+    "diretor": "Bryan Singer",
+    "atores": [
+        { "nome": "Hugh Jackman", "cache": "32 milhoes de dolares", "personagem": "Logan - Wolverine" },
+        { "nome": "Patrick Stewart", "cache": "19 milhoes de dolares", "personagem": "Professor Charles Xavier" }
+    ]
+}
+{
+    "nome": "Batman vs Superman : A Origem da Justiça",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "24  de Março de 2016",
+    "copyright": "Warner Bros.",
+    "custo": " 250 milhões de dollares",
+    "diretor": "Larry Fong",
+    "atores": [
+        { "nome": "Ben Affleck", "cache": "33 milhoes de dolares", "personagem":  "Bruce Wayne / Batman" },
+        { "nome": "Henry Cavill", "cache": "51 milhoes de dolares", "personagem": " Clark Kent / Superman" }
+    ]
+}
+{
+    "nome": "Hulk",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "27 de Junho de 2003",
+    "copyright": "Universal Studios",
+    "custo": " 137 milhões de dollares",
+    "diretor": "Ang Lee",
+    "atores": [
+        { "nome": "Eric Bana", "cache": "39 milhoes de dolares", "personagem":   "Dr. Robert Bruce Banner / Hulk" },
+        { "nome": "Jennifer Connelly", "cache": "22 milhoes de dolares", "personagem": "  Dra. Elizabeth Ross" }
+    ]
+}
+{
+    "nome": "Homem-Aranha",
+    "numero_meses_producao": " 8 ",
+    "ano_lancamento": "17 de Maio de 2002",
+    "copyright": "Sony",
+    "custo": " 139 milhões de dollares",
+    "diretor": "Sam Raimi",
+    "atores": [
+        { "nome": "Tobey Maguire", "cache": "29 milhoes de dolares", "personagem":   "Peter Parker / Homem-Aranha"},
+        { "nome": "Kirsten Dunst", "cache": "12 milhoes de dolares", "personagem": "Mary Jane Watson" }
+    ]
+}
+{
+    "nome": "Homem-Aranha 2",
+    "numero_meses_producao": " 9 ",
+    "ano_lancamento": "3 de Julho de 2004",
+    "copyright": "Sony",
+    "custo": " 200 milhões de dollares",
+    "diretor": "Sam Raimi",
+    "atores": [
+        { "nome": "Tobey Maguire", "cache": "37 milhoes de dolares", "personagem":   "Peter Parker / Homem-Aranha"},
+        { "nome": "Kirsten Dunst", "cache": "22 milhoes de dolares", "personagem": "Mary Jane Watson" }
+    ]
+}
+{
+    "nome": "Os Vingadores",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 de Abril de 2012",
+    "copyright": "Marvel",
+    "custo": " 220 milhões de dollares",
+    "diretor": "Joss Whedon",
+    "atores": [
+        { "nome": "Robert Downey, Jr. ", "cache": "40 milhoes de dolares", "personagem":   "Tony Stark / Homem de Ferro"},
+        { "nome": "Chris Evans", "cache": "32 milhoes de dolares", "personagem": "Steve Rogers / Capitão América" }
+    ]
+}
+{
+    "nome": "Os Vingadores : Era de Ultron",
+    "numero_meses_producao": " 7 ",
+    "ano_lancamento": "11 de Abril de 2012",
+    "copyright": "Marvel",
+    "custo": " 220 milhões de dollares",
+    "diretor": "Joss Whedon",
+    "atores": [
+        { "nome": "Robert Downey, Jr. ", "cache": "43 milhoes de dolares", "personagem":   "Tony Stark / Homem de Ferro"},
+        { "nome": "Chris Evans", "cache": "36 milhoes de dolares", "personagem": "Steve Rogers / Capitão América" }
+    ]
+}

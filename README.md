@@ -37,3 +37,7 @@ Hollywood possui diversos estúdios cinematográficos, cada um caracterizado por
 - Relação dos atores e diretores dos filmes;
 - Relação dos cachês de um determinado ator;
 - Relação de todos os personagens de um ator
+
+## Referências
+
+- Base de dados: Todos os dados foram coletados do WIKIPEDIA
