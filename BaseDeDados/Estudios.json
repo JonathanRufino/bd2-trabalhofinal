@@ -1,35 +1,39 @@
 {
-    "nome": "Marvel",
-    "dono": "The Walt Disney Company",
-    "data_fundacao": "1 de maio de 1939",
-    "faturamento_ano_anterior": "925.7 milhıes de dolares",
-    "filmes": [   "Os Vingadores ","Vingadores : Era de Ultron"]
-}
-{
-    "nome": "Sony Pictures",
-    "dono": "Sony Corporation",
-    "data_fundacao": "21 de dezembro de 1987",
-    "faturamento_ano_anterior": "8 bilhıes de dolares",
-    "filmes": [   "Homem-Aranha","Homem-Aranha 2" ]
-}
-{
-    "nome": "20th Century Fox",
-    "dono": "21st Century Fox",
-    "data_fundacao": "28 de dezembro de 1934",
-    "faturamento_ano_anterior": "1,8 bilhıes de dolares",
-    "filmes": [ "X-men", "X-men 2" ]
-}
-{
-    "nome": "Universal Studios",
-    "dono": "Comcast",
-    "data_fundacao": "28 de dezembro de 1934",
-    "faturamento_ano_anterior": "4.2 bilhıes de dollares",
-    "filmes": [ "Hulk" ]
-}
-{
-    "nome": "Warner Bros.",
-    "dono": "Time Warner Company",
-    "data_fundacao": "4 de abril de 1923",
-    "faturamento_ano_anterior": "12,992 bilhıes de dollares",
-    "filmes": [ "Batman vs Superman : A Origem da JustiÁa" ]
+    "docs": [
+        {
+            "nome": "Marvel",
+            "dono": "The Walt Disney Company",
+            "data_fundacao": "1 de maio de 1939",
+            "faturamento_ano_anterior": "925.7 milh√µes de dolares",
+            "filmes": [   "Os Vingadores","Vingadores : Era de Ultron"]
+        },
+        {
+            "nome": "Sony Pictures",
+            "dono": "Sony Corporation",
+            "data_fundacao": "21 de dezembro de 1987",
+            "faturamento_ano_anterior": "8 bilh√µes de dolares",
+            "filmes": [   "Homem-Aranha","Homem-Aranha 2" ]
+        },
+        {
+            "nome": "20th Century Fox",
+            "dono": "21st Century Fox",
+            "data_fundacao": "28 de dezembro de 1934",
+            "faturamento_ano_anterior": "1,8 bilh√µes de dolares",
+            "filmes": [ "X-men", "X-men 2" ]
+        },
+        {
+            "nome": "Universal Studios",
+            "dono": "Comcast",
+            "data_fundacao": "28 de dezembro de 1934",
+            "faturamento_ano_anterior": "4.2 bilh√µes de dollares",
+            "filmes": [ "Hulk" ]
+        },
+        {
+            "nome": "Warner Bros.",
+            "dono": "Time Warner Company",
+            "data_fundacao": "4 de abril de 1923",
+            "faturamento_ano_anterior": "12,992 bilh√µes de dollares",
+            "filmes": [ "Batman vs Superman : A Origem da Justi√ßa" ]
+        }
+    ]
 }
