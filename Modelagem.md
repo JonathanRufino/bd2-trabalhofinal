@@ -4,7 +4,7 @@
 
 ````json
 {
-    "identificador": "unique",
+    "id": "unique",
     "nome": "",
     "cpf": "",
     "identidade": "",
@@ -17,15 +17,17 @@
     "naturalidade": "",
     "endereço": {
         "logradouro": "",
-        "numero": "",
+        "bairro": "",
         "cidade": "",
-        "estado": "",
+        "uf": "",
         "pais": ""
     },
-    "telefone": "",
+    "telefone": {
+        "celular": "",
+        "residencial": "",
+    },
     "email": "",
     "escolaridade": "",
-    "naturalidade": "",
     "cargo": ""
 }
 ````
