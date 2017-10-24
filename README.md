@@ -29,14 +29,14 @@ Todos os grupos (03 pessoas) devem postar no moodle. O grupo que não enviar fic
 **Apresentação do Trabalho Prático:** 13 e 22 de novembro de 2017
 
 
-## Descrição do Contexto – Sistema Cinematográfico
+## Descrição do Contexto – Sistema de Aeroclube
 
-Hollywood possui diversos estúdios cinematográficos, cada um caracterizado por um nome único, um dono, data de fundação, e o faturamento do ano anterior. Estes estúdios produzem filmes que possui um nome único, o número de meses que levou sendo feito, o  ano de lançamento, o número do "copyright", e o custo total do filme. Em cada filme atuam atores, que possuem um nome artístico único, um número de seguro social (também único), uma nacionalidade, idade, sexo, e um conjunto de tipos de papéis para o qual seu tipo físico é aconselhável (ex: avó, mocinha jovem, galã com idades avançadas, adolescentes). Estes tipos de papéis não são pré-definidos, constituindo uma lista preenchida a critério de cada ator. Em cada filme onde atua, um ator ganha um cachê, e desempenha um personagem que possui um nome. Estúdios podem existir mesmo que ainda não tiverem produzido um filme, mas só são considerados atores que já atuaram em pelo menos um filme. Todos os filmes possuem pelo menos um diretor. Em termos de consultas e relatórios, o sistema deverá contemplar:
+: Em um aeroclube, estão inscritos pilotos, instrutores e alunos de pilotagem. Todos sócios (inscritos) são identificados pelo número de matrícula, e caracterizados por nome, endereço e idade. Os pilotos possuem um número de brevê (único). Os instrutores são pilotos com formação adicional de instrutor, e deve ser registrado o nome do curso, a data de obtenção do diploma, bem como a instituição. Para os alunos de pilotagem, guardam-se os registros de todas suas saídas para contabilização de horas para obtenção do brevê. Para cada saída registra-se a data, instrutor, hora de saída de chegada, bem como o parecer do instrutor sobre o vôo. Em termos de consultas e relatórios, o sistema deverá contemplar:
 
-- Relação dos filmes produzidos por um estúdio;
-- Relação dos atores e diretores dos filmes;
-- Relação dos cachês de um determinado ator;
-- Relação de todos os personagens de um ator
+- Relação de todos os pilotos;
+- Relação de todos os instrutores;
+- Relação de todos os alunos e números de horas de vôo;
+- Relação de todos os cursos ministrados por um determinado instrutor.
 
 ## Referências
 
