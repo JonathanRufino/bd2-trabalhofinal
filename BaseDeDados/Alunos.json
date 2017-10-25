@@ -1,0 +1,36 @@
+{
+    "docs": [
+        {
+            "nome": "",
+            "matricula": "unique",
+            "endereço": {
+                "logradouro": "",
+                "bairro": "",
+                "cidade": "",
+                "uf": "",
+                "pais": ""
+            },
+            "idade": "",
+            "saidas": [
+                { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" },
+                { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" }
+            ]
+        },
+        {
+            "nome": "",
+            "matricula": "unique",
+            "endereço": {
+                "logradouro": "",
+                "bairro": "",
+                "cidade": "",
+                "uf": "",
+                "pais": ""
+            },
+            "idade": "",
+            "saidas": [
+                { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" },
+                { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" }
+            ]
+        }
+    ]
+}

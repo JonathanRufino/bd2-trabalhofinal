@@ -31,12 +31,12 @@ Todos os grupos (03 pessoas) devem postar no moodle. O grupo que não enviar fic
 
 ## Descrição do Contexto – Sistema de Aeroclube
 
-: Em um aeroclube, estão inscritos pilotos, instrutores e alunos de pilotagem. Todos sócios (inscritos) são identificados pelo número de matrícula, e caracterizados por nome, endereço e idade. Os pilotos possuem um número de brevê (único). Os instrutores são pilotos com formação adicional de instrutor, e deve ser registrado o nome do curso, a data de obtenção do diploma, bem como a instituição. Para os alunos de pilotagem, guardam-se os registros de todas suas saídas para contabilização de horas para obtenção do brevê. Para cada saída registra-se a data, instrutor, hora de saída de chegada, bem como o parecer do instrutor sobre o vôo. Em termos de consultas e relatórios, o sistema deverá contemplar:
+Em um aeroclube, estão inscritos pilotos, instrutores e alunos de pilotagem. Todos sócios (inscritos) são identificados pelo número de matrícula, e caracterizados por nome, endereço e idade. Os pilotos possuem um número de brevê (único). Os instrutores são pilotos com formação adicional de instrutor, e deve ser registrado o nome do curso, a data de obtenção do diploma, bem como a instituição. Para os alunos de pilotagem, guardam-se os registros de todas suas saídas para contabilização de horas para obtenção do brevê. Para cada saída registra-se a data, instrutor, hora de saída de chegada, bem como o parecer do instrutor sobre o vôo. Em termos de consultas e relatórios, o sistema deverá contemplar:
 
-- Relação de todos os pilotos;
-- Relação de todos os instrutores;
-- Relação de todos os alunos e números de horas de vôo;
-- Relação de todos os cursos ministrados por um determinado instrutor.
+- Relação de todos os pilotos
+- Relação de todos os instrutores
+- Relação de todos os alunos e números de horas de vôo
+- Relação de todos os cursos ministrados por um determinado instrutor
 
 ## Referências
 
