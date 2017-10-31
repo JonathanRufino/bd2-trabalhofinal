@@ -1,0 +1,30 @@
+{
+    "docs": [
+      {
+          "nome": "unique",
+          "matricula": "",
+          "endereço": {
+              "logradouro": "",
+              "bairro": "",
+              "cidade": "",
+              "uf": "",
+              "pais": ""
+          },
+          "idade": "",
+          "breve": ""
+      },
+      {
+          "nome": "unique",
+          "matricula": "",
+          "endereço": {
+              "logradouro": "",
+              "bairro": "",
+              "cidade": "",
+              "uf": "",
+              "pais": ""
+          },
+          "idade": "",
+          "breve": ""
+       }
+    ]
+}

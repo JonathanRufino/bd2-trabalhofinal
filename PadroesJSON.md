@@ -32,7 +32,7 @@
 }
 ````
 
-### Pilotos/Instrutores
+### Instrutores
 
 ````json
 {
@@ -63,6 +63,22 @@
 }
 ````
 
+### Piloto
+````json
+{
+    "nome": "",
+    "matricula": "unique",
+    "endereço": {
+        "logradouro": "",
+        "bairro": "",
+        "cidade": "",
+        "uf": "",
+        "pais": ""
+    },
+    "idade": "",
+    "breve": "unique"
+}
+````
 
 ### Aluno
 
@@ -81,22 +97,6 @@
     "saidas": [
         { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" },
         { "matricula_instrutor": "", "data": "", "hora_saida": "", "hora_chegada": "", "parecer_instrutor": "" }
-    ]
-}
-````
-
-### Ator
-
-````json
-{
-    "nome": "",
-    "nome_artistico": "unique",
-    "numero_seguro_social": "unique",
-    "nacionalidade": "",
-    "idade": "",
-    "sexo": "",
-    "tipo_fisico_papel": [
-
     ]
 }
 ````
