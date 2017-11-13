@@ -1,9 +1,10 @@
 {
     "docs": [
       {
+          "tipo": "instrutor",
           "nome": "José Jorge Alburqueque",
           "matricula": "00121",
-          "endereço": {
+          "endereco": {
               "logradouro": "Superquadra",
               "bairro": "Lago Sul",
               "cidade": "Brasília",
@@ -16,7 +17,7 @@
               {
                   "nome": "Piloto Comercial",
                   "data_obtencao_certificado": "20/09/2012",
-                  "instituicao":"Escola de AvIAÇÃO CEAB"
+                  "instituicao":"Escola de Aviação CEAB"
               },
               {
                   "nome": "Diploma em Aviação Tecnica",
@@ -26,14 +27,15 @@
           ]
       },
       {
-            "nome": "Carlos Andrade da Silva",
-            "matricula": "00144",
-            "endereço": {
-                "logradouro": "Av. Juscelino Kubitschek",
-                "bairro": "Itaim Bibi",
-                "cidade": "São Bernado do Campo",
-                "uf": "BRA",
-                "pais": "Brasil"
+          "tipo": "instrutor",
+          "nome": "Carlos Andrade da Silva",
+          "matricula": "00144",
+          "endereco": {
+              "logradouro": "Av. Juscelino Kubitschek",
+              "bairro": "Itaim Bibi",
+              "cidade": "São Bernado do Campo",
+              "uf": "BRA",
+              "pais": "Brasil"
             },
             "idade": "42",
             "breve": "00898",
@@ -52,9 +54,10 @@
             ]
         },
         {
+            "tipo": "instrutor",
             "nome": "Paulo César Guliver",
             "matricula": "00169",
-            "endereço": {
+            "endereco": {
                 "logradouro": "Quadra",
                 "bairro": "QI",
                 "cidade": "Brasília",
@@ -78,9 +81,10 @@
             ]
         },
         {
+            "tipo": "instrutor",
             "nome": "Willian Shakespeare Paker",
             "matricula": "00196",
-            "endereço": {
+            "endereco": {
                 "logradouro": "20 Park Plaza",
                 "bairro": "02116",
                 "cidade": "Boston",
@@ -104,30 +108,31 @@
             ]
         },
         {
-              "nome": "Alberto Santos Dumont",
-              "matricula": "00001",
-              "endereço": {
-                  "logradouro": "Bairro",
-                  "bairro": "Guarujá",
-                  "cidade": "São Paulo",
-                  "uf": "BRA",
-                  "pais": "Brasil"
-              },
-              "idade": "28",
-              "breve": "00001",
-              "piloto_instrutor": "--",
-              "cursos": [
-                  {
-                      "nome": "Colégio da Vida",
-                      "data_obtencao_certificado": "23/10/1906",
-                      "instituicao":"Brasilian Fly Life"
-                  },
-                  {
-                      "nome": "--",
-                      "data_obtencao_certificado": "--",
-                      "instituicao":"--"
-                  }
-              ]
-          }
+            "tipo": "instrutor",
+            "nome": "Alberto Santos Dumont",
+            "matricula": "00001",
+            "endereco": {
+                "logradouro": "Bairro",
+                "bairro": "Guarujá",
+                "cidade": "São Paulo",
+                "uf": "BRA",
+                "pais": "Brasil"
+            },
+            "idade": "28",
+            "breve": "00001",
+            "piloto_instrutor": "--",
+            "cursos": [
+                {
+                    "nome": "Colégio da Vida",
+                    "data_obtencao_certificado": "23/10/1906",
+                    "instituicao":"Brasilian Fly Life"
+                },
+                {
+                    "nome": "--",
+                    "data_obtencao_certificado": "--",
+                    "instituicao":"--"
+                }
+            ]
+        }
     ]
 }

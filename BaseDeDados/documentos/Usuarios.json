@@ -1,6 +1,7 @@
 {
     "docs": [
         {
+            "tipo": "usuario",
             "id": "fd9a5f6cd9bc25fa7bc9698d9f000256",
             "nome": "Henrique Guilherme Iago Monteiro",
             "cpf": "98320377358",
@@ -27,6 +28,7 @@
             "cargo": "Desenvolvedor"
         },
         {
+            "tipo": "usuario",
             "id": "fd9a5f6cd9bc25fa7bc9698d9f0003e0",
             "nome": "Carlos Eduardo André Pereira",
             "cpf": "15174585793",
@@ -53,6 +55,7 @@
             "cargo": "Gerente de Projeto"
         },
         {
+            "tipo": "usuario",
             "id": "fd9a5f6cd9bc25fa7bc9698d9f000a21",
             "nome": "Isadora Laís Campos",
             "cpf": "81811509533",
@@ -79,6 +82,7 @@
             "cargo": "CEO"
         },
         {
+            "tipo": "usuario",
             "id": "fd9a5f6cd9bc25fa7bc9698d9f0015bf",
             "nome": "Rayssa Isabelle Luiza dos Santos",
             "cpf": "46395643258",
@@ -105,6 +109,7 @@
             "cargo": "Desenvolvedora"
         },
         {
+            "tipo": "usuario",
             "id": "fd9a5f6cd9bc25fa7bc9698d9f00246a",
             "nome": "Vitória Betina Gomes",
             "cpf": "28624722802",
