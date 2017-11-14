@@ -66,7 +66,7 @@
                 "logradouro": "Street",
                 "bairro": "25 Brook Street ",
                 "cidade": "Londres",
-                "uf": "LD",
+                "uf": "LO",
                 "pais": "Reino Unido"
             },
             "idade": "32",
@@ -95,7 +95,7 @@
                 "logradouro": "",
                 "bairro": "Rechnikov Square 3",
                 "cidade": "Cheboksary",
-                "uf": "RUS",
+                "uf": "CHE",
                 "pais": "Russia"
             },
             "idade": "37",
@@ -124,7 +124,7 @@
                 "logradouro": "Street",
                 "bairro": "5502 - 54th Street",
                 "cidade": "Bonnyville",
-                "uf": "CAN",
+                "uf": "BON",
                 "pais": "Canadá"
             },
             "idade": "21",

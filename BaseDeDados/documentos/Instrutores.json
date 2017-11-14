@@ -8,7 +8,7 @@
               "logradouro": "Superquadra",
               "bairro": "Lago Sul",
               "cidade": "Brasília",
-              "uf": "BRA",
+              "uf": "DF",
               "pais": "Brasil"
           },
           "idade": "29",
@@ -34,7 +34,7 @@
               "logradouro": "Av. Juscelino Kubitschek",
               "bairro": "Itaim Bibi",
               "cidade": "São Bernado do Campo",
-              "uf": "BRA",
+              "uf": "SP",
               "pais": "Brasil"
             },
             "idade": "42",
@@ -61,7 +61,7 @@
                 "logradouro": "Quadra",
                 "bairro": "QI",
                 "cidade": "Brasília",
-                "uf": "BRA",
+                "uf": "DF",
                 "pais": "Brasil"
             },
             "idade": "37",
@@ -88,7 +88,7 @@
                 "logradouro": "20 Park Plaza",
                 "bairro": "02116",
                 "cidade": "Boston",
-                "uf": "EUA",
+                "uf": "MA",
                 "pais": "Estados Unidos da América"
             },
             "idade": "55",
@@ -115,7 +115,7 @@
                 "logradouro": "Bairro",
                 "bairro": "Guarujá",
                 "cidade": "São Paulo",
-                "uf": "BRA",
+                "uf": "SP",
                 "pais": "Brasil"
             },
             "idade": "28",

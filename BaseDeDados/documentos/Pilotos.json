@@ -8,7 +8,7 @@
                 "logradouro": "QUADRA N",
                 "bairro": "Ceilândia",
                 "cidade": "Brasilia",
-                "uf": "BRA",
+                "uf": "DF",
                 "pais": "Brasil"
             },
             "idade": "27",
@@ -22,7 +22,7 @@
                 "logradouro": "172 Auckland Street Unit 1",
                 "bairro": "Gladstone",
                 "cidade": "QueenSland",
-                "uf": "AUS",
+                "uf": "QS",
                 "pais": "Austrália"
             },
             "idade": "32",
@@ -36,7 +36,7 @@
                 "logradouro": "Av Adrian Jara",
                 "bairro": "Bairro Centro",
                 "cidade": "Cidade Do Leste",
-                "uf": "PAR",
+                "uf": "CL",
                 "pais": "Paraguai"
             },
             "idade": "55",
@@ -50,7 +50,7 @@
                 "logradouro": "Rua",
                 "bairro": "Havana Velha",
                 "cidade": "Havana",
-                "uf": "CUB",
+                "uf": "HA",
                 "pais": "Cuba"
             },
             "idade": "42",
@@ -64,7 +64,7 @@
                 "logradouro": "Av. Oswaldo Cruz",
                 "bairro": "Flamengo",
                 "cidade": "Rio de Janeiro",
-                "uf": "BRA",
+                "uf": "RJ",
                 "pais": "Brasil"
             },
             "idade": "33",
