@@ -11,4 +11,13 @@ function(doc) {
             breve: doc.breve
         });
     }
+    if (doc.tipo == 'instrutor') {
+        emit(doc._id, {
+            nome: doc.nome,
+            matricula: doc.matricula,
+            endereco: doc.endereco,
+            idade: doc.idade,
+            breve: doc.breve
+        });
+    }
 }
