@@ -100,18 +100,3 @@
     ]
 }
 ````
-
-## Consultas
-
-- Relação de todos os pilotos
-    ````sql
-    ````
-- Relação de todos os instrutores
-    ````sql
-    ````
-- Relação de todos os alunos e números de horas de vôo
-    ````sql
-    ````
-- Relação de todos os cursos ministrados por um determinado instrutor
-    ````sql
-    ````
